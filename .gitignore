@@ -1,4 +1,5 @@
 .terraform/*
 *.tfstate
 *.tfstate.*
+crash.log
 # *.tfvars to make it reusable
